@@ -53,14 +53,18 @@ Set Properties to the ticket, Sev-A (1 hour, 24/7) Online Banking Department |
 <p>
 
   ![Screenshot 2024-12-06 131154](https://github.com/user-attachments/assets/f1148450-e61f-4e33-9161-6f94757d3426)
+
+  As an end-user, create the following ticket "accounting department needs adobe upgrade, broken" |
+  
 ![Screenshot 2024-12-06 132314](https://github.com/user-attachments/assets/3ae04d5a-efde-4caf-8dc4-b942e6c8fbf8)
+
+ As a Help Desk Agent (john), observe the ticket’s properties |
+  Set Properties to the ticket, Sev-B (4 hours, 24/7) Support |
+  
 ![Screenshot 2024-12-06 132512](https://github.com/user-attachments/assets/1be2775c-f463-4f3c-b367-82fe8ddf377d)
 
 </p>
 <p>
-As an end-user, create the following ticket "accounting department needs adobe upgrade, broken" |
-  As a Help Desk Agent (john), observe the ticket’s properties |
-  Set Properties to the ticket, Sev-B (4 hours, 24/7) Support |
   Work the ticket to completion as john
 </p>
 <br />
