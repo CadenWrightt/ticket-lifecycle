@@ -29,15 +29,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 
   ![Screenshot 2024-12-06 124149](https://github.com/user-attachments/assets/2ad2e147-ff58-4b19-8f57-2bb67512b19b)
+
+  As an end-user, create the following ticket "entire mobile/online banking system is down" | 
+  
 ![Screenshot 2024-12-06 124409](https://github.com/user-attachments/assets/c26e401b-213c-4511-8f50-dafebefb9c35)
 ![Screenshot 2024-12-06 125142](https://github.com/user-attachments/assets/c9b850ed-e8e1-49b5-a453-d449c711e2aa)
+
+As a Help Desk Agent (john), observe the ticket’s properties | 
+
 ![Screenshot 2024-12-06 130733](https://github.com/user-attachments/assets/87a5ec9e-3c9b-436d-b0cf-f615e91da357)
+
+Set Properties to the ticket, Sev-A (1 hour, 24/7) Online Banking Department |
+  Attempt to observe the ticket again as “john”. Can you view or change? |
+  
 ![Screenshot 2024-12-06 130841](https://github.com/user-attachments/assets/b8beb3ef-74b9-41ac-9f0d-da3f32d59e7c)
 
 </p>
 <p>
-As an end-user, create the following ticket "entire mobile/online banking system is down" | As a Help Desk Agent (john), observe the ticket’s properties | Set Properties to the ticket, Sev-A (1 hour, 24/7) Online Banking Department |
-  Attempt to observe the ticket again as “john”. Can you view or change? |
   Work the ticket to completion as jane
 </p>
 <br />
